@@ -1,0 +1,3 @@
+[template]
+# 不做Liquid替换，但保留文件复制到新项目
+exclude = ["cliff.toml"]
